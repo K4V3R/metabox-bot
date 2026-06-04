@@ -1,4 +1,4 @@
-app = "metabox-bot"
+app = "k4ver-metabox-bot"
 primary_region = "ams"
 
 [build]
